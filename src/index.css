@@ -238,3 +238,4 @@ body:before{opacity:var(--texture-opacity)}
 .rental-details{position:absolute;right:12px;bottom:10px;left:12px;display:flex;align-items:center;justify-content:space-between;gap:8px}
 .rental-details>div{display:grid;gap:4px}.rental-details strong{color:#f1f4f2;font:500 9px 'Space Grotesk',sans-serif}.rental-details span,.rental-details b i{color:#aab8b0;font-size:6px;font-style:normal;font-weight:400}.rental-details>b{color:#efaa73;font:600 10px 'Space Grotesk',sans-serif;white-space:nowrap}
 @media(max-width:620px){.hackflow-copy strong{font-size:15px}.resource-map{inset-inline:10px}.fleet-map{inset-inline:10px}.rental-property{inset-inline:10px}}
+@media(max-width:335px){.hero-copy{min-width:0}.availability{width:fit-content;max-width:100%}.availability i{flex:0 0 7px}}
